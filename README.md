@@ -1,4 +1,5 @@
 Welcome to Testing your Knowledge of the World
+======================
 
 Test your knowledge of the world is an application that simulates a trivia game of questions related to the world, the user has the option to start the game and see the score at the end.
 + Designed the user interface employing JavaScript with CSS for styling.
